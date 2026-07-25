@@ -30,5 +30,3 @@ public class Main {
         obj.calculateArea(5);
     }
 }
-
-#3b
