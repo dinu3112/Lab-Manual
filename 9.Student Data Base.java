@@ -17,8 +17,8 @@ public class Main {
         List<Student> students = new ArrayList<>();
 
 
-        students.add(new Student(11, "Ashok", "CSE", 95));
-        students.add(new Student(12, "Priya", "CSE", 91));
+        students.add(new Student(11, "Rahul", "CSE", 95));
+        students.add(new Student(12, "Sneha", "ISE", 91));
 
 
         System.out.printf("%-10s %-15s %-15s %-10s\n", "RollNo", "Name", "Department", "Marks");
