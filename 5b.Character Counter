@@ -31,5 +31,3 @@ public class CharacterCounter {
         sc.close();
     }
 }
-
-#5b
